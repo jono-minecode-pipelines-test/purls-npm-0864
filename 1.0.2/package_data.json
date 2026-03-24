@@ -1,6 +1,6 @@
 {
     "name": "005-http-open",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "",
     "main": "index.js",
     "bin": {
@@ -11,8 +11,8 @@
     },
     "author": "",
     "license": "ISC",
-    "_id": "005-http-open@1.0.0",
-    "_shasum": "edf8e6c3aad1fdbd60105b780be88299467477a9",
+    "_id": "005-http-open@1.0.2",
+    "_shasum": "4883941a264da5374e7656d744dd65d6c8c01664",
     "_from": ".",
     "_npmVersion": "3.10.10",
     "_nodeVersion": "6.10.3",
@@ -21,13 +21,13 @@
         "email": "836150488@qq.com"
     },
     "dist": {
-        "shasum": "edf8e6c3aad1fdbd60105b780be88299467477a9",
-        "tarball": "https://registry.npmjs.org/005-http-open/-/005-http-open-1.0.0.tgz",
-        "integrity": "sha512-86rVqRwa4asM11U6wp/PNVo1xHSbBoqdHezMiIqRuW6wkyt2+6ksiuMpk3sr1LRQZJ+Sf4q1eVIrHGLBVPzCTQ==",
+        "shasum": "4883941a264da5374e7656d744dd65d6c8c01664",
+        "tarball": "https://registry.npmjs.org/005-http-open/-/005-http-open-1.0.2.tgz",
+        "integrity": "sha512-nfZYM8vUxj0bh9ZkKNS9lz7H17p+acT/etHfIXKvBIt9uDPlYCQPcq5SeiOiOrGnhOCxRH4T6bfpxI0DUhRWRg==",
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQDfFybBAUBYOfp1aAr6SXzt1P86CuJ4Wk+JGhGECUuEBAIhAPAHCyi11ZJkfqw2sRGumlc0U59p62NlH5jT0y/CQXAX"
+                "sig": "MEYCIQDOC3Q5t8eXL5PRKPKyT2YmVQkzuoHpI2Hbr/RYyyIDPQIhAJ7iv5RP1epV3NPQqYF92YtzIMzTHRi/Zctpzwhm6Gf2"
             }
         ]
     },
@@ -39,6 +39,6 @@
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/005-http-open-1.0.0.tgz_1501062321491_0.6462111719883978"
+        "tmp": "tmp/005-http-open-1.0.2.tgz_1501149695250_0.2579274787567556"
     }
 }

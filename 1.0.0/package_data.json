@@ -1,0 +1,51 @@
+{
+    "name": "-gsocket.io",
+    "version": "1.0.0",
+    "description": "@satoki00",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com",
+        "url": "https://github.com/satoki"
+    },
+    "license": "ISC",
+    "_id": "-gsocket.io@1.0.0",
+    "_nodeVersion": "21.1.0",
+    "_npmVersion": "10.2.0",
+    "dist": {
+        "integrity": "sha512-WGCcVxwpNLlcIXruBughFzjOhMvObPGEUBa6MjB9hFsJXDcBcBLq2bF4SP+1/sHEpc407ZI/nP+TLZhl/ynK9g==",
+        "shasum": "963d300a1c8cd7d5ba2318f0c951a63a5b50196b",
+        "tarball": "https://registry.npmjs.org/-gsocket.io/-/-gsocket.io-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 682,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIA6V/KY1C8Oi7jZvxHyIKrqpUuDUl7uk6g6qDxzLmKz3AiBnzdEXm46dXXa72I+FIi2tXk3XBDZMbiZdXR/dmvpoIg=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-gsocket.io_1.0.0_1721378255178_0.8600527637312259"
+    },
+    "_hasShrinkwrap": false
+}

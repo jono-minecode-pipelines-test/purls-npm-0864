@@ -1,0 +1,42 @@
+{
+    "name": "--------------------------------------------------------------------------------------------------------------------------------whynunu",
+    "version": "0.0.0",
+    "description": "",
+    "keywords": [],
+    "author": {
+        "name": "Hacksore"
+    },
+    "gitHead": "f1af7326929fb5ca4c324814c2e8b7d3d3985b58",
+    "_id": "--------------------------------------------------------------------------------------------------------------------------------whynunu@0.0.0",
+    "_nodeVersion": "18.17.1",
+    "_npmVersion": "9.6.7",
+    "dist": {
+        "integrity": "sha512-Szj8FM5WEUpwZ1yfSbKGurBvUD0kA0jUF1MZXwwEcsd7bh1KxpvMBWuEkyX72qKcV6pcUgWljenJS6Vlfo1+FA==",
+        "shasum": "9e73720a6460b7d2c0d88c4ae2fd57541586fa27",
+        "tarball": "https://registry.npmjs.org/--------------------------------------------------------------------------------------------------------------------------------whynunu/-/--------------------------------------------------------------------------------------------------------------------------------whynunu-0.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 237,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC+O49KrkFJqaQuY+CoZnkWFQmkd3KxS6GUqU3cHSnrFAIgKN54F8sNXKvK4vxOTdxCYjkTmvGuAHuq2DItwc7tPCc="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hacksore",
+        "email": "seanboult@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hacksore",
+            "email": "seanboult@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--------------------------------------------------------------------------------------------------------------------------------whynunu_0.0.0_1703861938537_0.2601545581092477"
+    },
+    "_hasShrinkwrap": false
+}
